@@ -1,0 +1,9 @@
+.center-image {
+    background-size: cover;
+    background-position: center;
+}
+
+
+.small-image-container {
+    height: 350px;
+}
